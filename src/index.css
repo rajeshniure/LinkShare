@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap");
+
+@import "tailwindcss";
+
+
+@theme {
+  --color-purple1: #633cff;
+  --color-purple2: #beadff;
+  --color-purple3: #efebff;
+  --color-blackish: #333333;
+  --color-gray1: #737373;
+  --color-gray2: #d9d9d9;
+  --color-gray3: #fafafa;
+  --color-white1: #ffffff;
+  --color-redish: #ff3939;
+
+  --font-instrument: "Instrument Sans", sans-serif;
+
+  --text-h1: 2rem;
+  --text-body: 1rem;
+  --text-caption: 0.75rem;
+}
